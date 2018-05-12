@@ -1,0 +1,9 @@
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Domain\obj\Debug\netcoreapp2.0\ModeloRelacionamentos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Domain\obj\Debug\netcoreapp2.0\ModeloRelacionamentos.Domain.AssemblyInfoInputs.cache
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Domain\obj\Debug\netcoreapp2.0\ModeloRelacionamentos.Domain.AssemblyInfo.cs
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Domain\bin\Debug\netcoreapp2.0\ModeloRelacionamentos.Domain.deps.json
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Domain\bin\Debug\netcoreapp2.0\ModeloRelacionamentos.Domain.dll
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Domain\bin\Debug\netcoreapp2.0\ModeloRelacionamentos.Domain.pdb
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Domain\obj\Debug\netcoreapp2.0\ModeloRelacionamentos.Domain.dll
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Domain\obj\Debug\netcoreapp2.0\ModeloRelacionamentos.Domain.pdb
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Domain\obj\Debug\netcoreapp2.0\ModeloRelacionamentos.Domain.csprojAssemblyReference.cache

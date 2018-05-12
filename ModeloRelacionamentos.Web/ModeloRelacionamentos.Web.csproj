@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ModeloRelacionamentos.Application.Service\ModeloRelacionamentos.Application.Service.csproj" />
+    <ProjectReference Include="..\ModeloRelacionamentos.Application\ModeloRelacionamentos.Application.csproj" />
+    <ProjectReference Include="..\ModeloRelacionamentos.Domain\ModeloRelacionamentos.Domain.csproj" />
+    <ProjectReference Include="..\ModeloRelacionamentos.Infra\ModeloRelacionamentos.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

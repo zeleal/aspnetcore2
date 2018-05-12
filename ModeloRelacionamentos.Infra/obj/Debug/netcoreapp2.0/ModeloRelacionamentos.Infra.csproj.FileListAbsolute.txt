@@ -1,0 +1,14 @@
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\bin\Debug\netcoreapp2.0\ModeloRelacionamentos.Infra.deps.json
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\bin\Debug\netcoreapp2.0\ModeloRelacionamentos.Infra.dll
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\obj\Debug\netcoreapp2.0\ModeloRelacionamentos.Infra.csprojAssemblyReference.cache
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\obj\Debug\netcoreapp2.0\ModeloRelacionamentos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\obj\Debug\netcoreapp2.0\ModeloRelacionamentos.Infra.AssemblyInfoInputs.cache
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\obj\Debug\netcoreapp2.0\ModeloRelacionamentos.Infra.AssemblyInfo.cs
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\bin\Debug\netcoreapp2.0\ModeloRelacionamentos.Infra.pdb
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\bin\Debug\netcoreapp2.0\ModeloRelacionamentos.Application.Service.dll
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\bin\Debug\netcoreapp2.0\ModeloRelacionamentos.Domain.dll
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\bin\Debug\netcoreapp2.0\ModeloRelacionamentos.Application.Service.pdb
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\bin\Debug\netcoreapp2.0\ModeloRelacionamentos.Domain.pdb
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\obj\Debug\netcoreapp2.0\ModeloRelacionamentos.Infra.csproj.CopyComplete
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\obj\Debug\netcoreapp2.0\ModeloRelacionamentos.Infra.dll
+C:\Users\jose.marques\Documents\Temp\ASPNETCore\TemplateRelacionamentos\ModeloRelacionamentos\ModeloRelacionamentos.Infra\obj\Debug\netcoreapp2.0\ModeloRelacionamentos.Infra.pdb
